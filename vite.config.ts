@@ -8,7 +8,7 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
 
-  base: "/tooth-vision-delight/",
+  base: "/Lovable_dental/",
 
   server: {
     host: "::",
